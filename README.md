@@ -4,9 +4,9 @@
 **PL:** Gra tekstowa z gatunku horror/science-fiction/przygodowe
 
 ## Plot / Fabuła
-**EN:** Year 2015, Calgary, Canada in the state of Alberta. Reporter Thomas Higgins receives an offer he just can't refuse - $25 million from the CIA in exchange for investigating suspicious disappearances in Port McMurray. His only lead points to an air base that is 100 kilometres far away from civilisation. As time goes by, he discovers that the source of the problem is some US government project hidden from special agencies.
+**EN:** Year 2015, Calgary, Canada in the state of Alberta. Reporter Thomas Higgins receives an offer he just can't refuse - $25 million from the CIA in exchange for investigating suspicious disappearances in Port McMurray. Encouraged by the possibility of quickly earning a large amount of money, he decides to collaborate. His only lead points to an air base that is 100 kilometres far away from civilisation. As time goes by, he discovers that the source of the problem is some US government project hidden from special agencies.
 
-**PL:** Rok 2015, Calgary w Kanadzie w stanie Alberta. Dziennikarz Thomas Higgins otrzymuje propozycję nie do odrzucenia - 25 milionów dolarów od CIA w zamian za zbadanie sprawy podejrzanych zaginięć w Port McMurray. Jedyny trop wzkazuje na bazę lotniczą odległą o 100 kilometrów od cywilizacji. Z biegiem czasu odkrywa, że żródłem problemu jest pewien ukrywany przed jednostkami specjalnymi projekt rządu USA.
+**PL:** Rok 2015, Calgary w Kanadzie w stanie Alberta. Dziennikarz Thomas Higgins otrzymuje propozycję nie do odrzucenia - 25 milionów dolarów od CIA w zamian za zbadanie sprawy podejrzanych zaginięć w Port McMurray. Zachęcony możliwością szybkiego zarobku dużej kwoty, postanawia podjąć się kolaboracji. Jedyny trop wzkazuje na bazę lotniczą odległą o 100 kilometrów od cywilizacji. Z biegiem czasu odkrywa, że żródłem problemu jest pewien ukrywany przed jednostkami specjalnymi projekt rządu USA.
 
 If you got some interesting ideas and you want to share with them, please tell us [here](https://github.com/pazdanowskyPLAY/project-tbx/discussions/categories/ideas)
 
